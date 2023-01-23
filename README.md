@@ -16,21 +16,21 @@ dostępna w formie konspektu.  Kontakt z prowadzącym jest możliwy cały czas
 pocztą elektroniczną.
 
 Spotkania odbywają się co tydzień wieczorem w formie wideokonferencji (google
-meet) i trwają półtorej godziny.
+meet) i trwają godzinę.
 
-Grupa liczy do 6 osób, zapisy telefonicznie. Koszt: 15zł/h.
+Grupa liczy od 3 do 6 osób, zapisy telefonicznie. Koszt: 15zł/h.
 
-Start kursu: 18 lub 25 stycznia, termin: każdy wtorek o 19.00
+Start kursu: 21 lub 28 lutego, termin: każdy wtorek o 19.00
 
 Program kursu:
 
 1. Wprowadzenie - zmienne, arytmetyka, funkcje
-2. Pętle, instrukcje warunkowe
-3. Typy, łańcuchy znaków, tablice
-4. Obiekty, funkcje strzałkowe, rekurencja
+2. Instrukcje warunkowe, łańcuchy znaków
+3. Pętle, tablice
+4. Obiekty, referencje, rekurencja
 5. Dynamiczny HTML - drzewo *DOM*, style CSS, zdarzenia
-6. Programowanie asynchroniczne - *Promise*, *async/await*
-7. React (1) - komponenty, wirtualny *DOM*, właściwości (props)
-8. React (2) - hooki (*useState, useRef, useEffect*)
-9. React (3) - zaawansowane tematy
+6. Środowisko pracy - *Node*, *npm*, *git*, popularne biblioteki
+7. Programowanie asynchroniczne, *fetch*, *Promise*
+8. React (1) - komponenty, wirtualny *DOM*
+9. React (2) - hooki (*useState, useRef, useEffect*)
 10. Sztuczki rekrutacyjne
